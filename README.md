@@ -3,7 +3,7 @@
 An interactive React app displaying international data of COVID-19 cases, recoveries, and deaths to date.
 
 ## Checkout the GIF below for a quick demo:
-
+!["Covid-19 Tracker Gif"](https://github.com/ofthekings12/covid-tracker/blob/main/docs/ezgif-2-44f7212691.gif?raw=true)
 
 ## Setup
 
